@@ -1,0 +1,147 @@
+.header {
+    background: url(/Photo/add.jpg);
+    background-position:center;
+    background-repeat: none;
+    background-size: cover;
+    height: 650px;
+    width: auto;
+    padding-top: 40px;
+    color: white;
+}
+
+.destination-1 {
+    background: url(/Photo/china-arch_1127-3673.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 300px;
+    width: auto;
+    color: white;
+    border-radius: 10px;
+}
+
+.destination-2 {
+    background: url(/Photo/blue-villa-beautiful-sea-hotel_1203-5316.avif);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 300px;
+    width: auto;
+    color: white;
+    border-radius: 10px;
+}
+
+.destination-3 {
+    background: url(/Photo/italy.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 300px;
+    width: auto;
+    color: white;
+    border-radius: 10px;
+}
+
+.destination-4 {
+    background: url(/Photo/russia.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 300px;
+    width: auto;
+    color: white;
+    border-radius: 10px;
+}
+
+.destination-5 {
+    background: url(/Photo/brazil.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 300px;
+    width: auto;
+    color: black;
+    border-radius: 10px;
+}
+
+.add-img {
+    background: url(/Photo/Header.png);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 400px;
+    width: auto;
+    padding-top: 45px;
+    border-radius: 20px;
+}
+
+.package-section-cuntry-img-1 {
+    background: url(/Photo/Saudi.png);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 350px;
+    width: auto;
+    border-radius: 10px;
+    color: white;
+    padding-left: 10px;
+}
+
+.package-section-cuntry-img-2 {
+    background: url(/Photo/russia.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 350px;
+    width: auto;
+    border-radius: 10px;
+    color: white;
+    padding-left: 10px;
+}
+.package-section-cuntry-img-3 {
+    background: url(/Photo/dubai.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 350px;
+    width: auto;
+    border-radius: 10px;
+    color: white;
+    padding-left: 10px;
+}
+
+.package-section-cuntry-img-4 {
+    background: url(/Photo/india.png);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 350px;
+    width: auto;
+    border-radius: 10px;
+    color: white;
+    padding-left: 10px;
+}
+
+.package-section-cuntry-img-5 {
+    background: url(/Photo/bangladesh.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 350px;
+    width: auto;
+    border-radius: 10px;
+    color: white;
+    padding-left: 10px;
+}
+
+.package-section-cuntry-img-6 {
+    background: url(/Photo/singapure.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+    height: 350px;
+    width: auto;
+    border-radius: 10px;
+    color: white;
+    padding-left: 10px;
+}
